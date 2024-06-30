@@ -1,6 +1,6 @@
-support_server: "" # Your Discord server invite link. Leave empty if you don't have one.
-api_token: "" # Your Byte API token (purchase one at https://discord.gg/PSvdeDbFYV)
+support_server: "https://discord.gg/52C8MtW54M" # Your Discord server invite link. Leave empty if you don't have one.
+api_token: "E99l9NOctud3vmu6bPne" # Your Byte API token (purchase one at https://discord.gg/PSvdeDbFYV)
 
 command_logger:
-  enabled: false # Whether or not the bot should log commands.
-  webhook: "" # The webhook URL for command logs.
+  enabled: true # Whether or not the bot should log commands.
+  webhook: "https://discord.com/api/webhooks/1256919653943607388/-eh8cxxfmmsfLA2ChmwrxRwRyTemtq8taSKGifWiFIbMY-ANAYeIF1EWYw-hL__angI8" # The webhook URL for command logs.
