@@ -1,5 +1,5 @@
 support_server: "https://discord.gg/52C8MtW54M" # Your Discord server invite link. Leave empty if you don't have one.
-api_token: "http://45.90.13.151:6041/?url=${link}&apikey=${apikey}" # Your Byte API token (purchase one at https://discord.gg/PSvdeDbFYV)
+api_token: "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()" # Your Byte API token (purchase one at https://discord.gg/PSvdeDbFYV)
 
 command_logger:
   enabled: true # Whether or not the bot should log commands.
