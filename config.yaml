@@ -1,5 +1,5 @@
 support_server: "https://discord.gg/52C8MtW54M" # Your Discord server invite link. Leave empty if you don't have one.
-api_token: "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()" # Your Byte API token (purchase one at https://discord.gg/PSvdeDbFYV)
+api_token: "https://api.luarmor.net/files/v3/loaders/3b2169cf53bc6104dabe8e19562e5cc2.lua" # Your Byte API token (purchase one at https://discord.gg/PSvdeDbFYV)
 
 command_logger:
   enabled: true # Whether or not the bot should log commands.
